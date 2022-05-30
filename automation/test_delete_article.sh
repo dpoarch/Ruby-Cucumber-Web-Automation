@@ -1,0 +1,1 @@
+ruby test_delete_article_.rb
